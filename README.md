@@ -42,7 +42,10 @@ This collection would not be possible without the incredible work of the Claude 
 
 ### 🌟 Core Foundation
 
-- **[guanyang/antigravity-skills](https://github.com/guanyang/antigravity-skills)**: The original framework and core set of 33 skills.
+### 🌟 Core Foundation
+
+- **[obra/superpowers](https://github.com/obra/superpowers)**: The original "Superpowers" framework by **Jesse Vincent**.
+- **[guanyang/antigravity-skills](https://github.com/guanyang/antigravity-skills)**: The Antigravity fork/extension of the core superpowers.
 
 ### 👥 Community Contributors
 
