@@ -1,18 +1,18 @@
 "use client";
 
 import { useState } from "react";
-import { ChefHat, ShoppingCart, RefreshCw, Sparkles } from "lucide-react";
+import { ChefHat, UtensilsCrossed, RefreshCw, Sparkles } from "lucide-react";
 import { useMenu } from "@/hooks/useMenu";
 import { Recipe } from "@/data/recipes";
 import WeekCard from "@/components/WeekCard";
-import ShoppingListModal from "@/components/ShoppingListModal";
+import CookWithWhatIHaveModal from "@/components/CookWithWhatIHaveModal";
 import RecipeDetailModal from "@/components/RecipeDetailModal";
 import Header from "@/components/Header";
 import QuaresmaBanner from "@/components/QuaresmaBanner";
 
 export default function Home() {
   const { menu, generateMenu, swapMeal, clearMenu } = useMenu();
-  const [showShopping, setShowShopping] = useState(false);
+  const [showCookWithWhat, setShowCookWithWhat] = useState(false);
   const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);
 
   return (
@@ -94,22 +94,23 @@ export default function Home() {
         )}
       </main>
 
-      {/* Floating button — Lista de Compras */}
-      {menu && (
-        <div className="fixed bottom-6 left-0 right-0 flex justify-center z-30 px-4">
-          <button
-            onClick={() => setShowShopping(true)}
-            className="flex items-center gap-2 bg-orange-500 hover:bg-orange-600 active:scale-95 text-white font-bold py-3.5 px-8 rounded-full shadow-xl shadow-orange-200 transition-all text-sm"
-          >
-            <ShoppingCart className="w-4 h-4" />
-            Ver Lista de Supermercado
-          </button>
-        </div>
-      )}
+      {/* Floating button — O que tenho em casa */}
+      <div className="fixed bottom-6 left-0 right-0 flex justify-center z-30 px-4">
+        <button
+          onClick={() => setShowCookWithWhat(true)}
+          className="flex items-center gap-2 bg-teal-600 hover:bg-teal-700 active:scale-95 text-white font-bold py-3.5 px-8 rounded-full shadow-xl shadow-teal-200 transition-all text-sm"
+        >
+          <UtensilsCrossed className="w-4 h-4" />
+          Gerar Receita com o que Tenho
+        </button>
+      </div>
 
-      {/* Shopping list modal */}
-      {showShopping && menu && (
-        <ShoppingListModal menu={menu} onClose={() => setShowShopping(false)} />
+      {/* Cook with what I have modal */}
+      {showCookWithWhat && (
+        <CookWithWhatIHaveModal
+          onClose={() => setShowCookWithWhat(false)}
+          onViewRecipe={setSelectedRecipe}
+        />
       )}
 
       {/* Recipe detail modal */}

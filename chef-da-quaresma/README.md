@@ -43,7 +43,6 @@ Acesse: **http://localhost:3000**
 
 ## 📁 Estrutura
 
-```
 chef-da-quaresma/
 ├── app/
 │   ├── page.tsx          # Página principal
