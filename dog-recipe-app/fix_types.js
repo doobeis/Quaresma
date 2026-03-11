@@ -1,0 +1,10 @@
+import fs from 'fs';
+const path = 'c:/Users/User/.gemini/antigravity/skills/antigravity-awesome-skills/dog-recipe-app/src/data/mockData.ts';
+let content = fs.readFileSync(path, 'utf8');
+content = content.replace(/image:/g, 'imageUrl:');
+content = content.replace(/prepTime:/g, 'prepTimeMinutes:');
+content = content.replace(/difficulty: 'Easy'/g, "difficulty: 'Fácil'");
+content = content.replace(/categories:\s*\[\s*'snacks'\s*\]/g, "category: 'Petiscos'");
+content = content.replace(/categories:\s*\[\s*"snacks"\s*\]/g, "category: 'Petiscos'");
+fs.writeFileSync(path, content, 'utf8');
+console.log('Fixed types!');

@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Fredoka', ui-sans-serif, system-ui, sans-serif;
+
+  /* Cores exatas da Marca Cãolinaria */
+  --color-brand-orange: #E68A19;
+  --color-brand-green: #486932;
+  --color-brand-yellow: #F1C453;
+  --color-brand-beige: #F8F6F0;
+
+  /* Mantendo algumas cores genéricas para compatibilidade, mescladas com a marca onde faz sentido */
+  --color-nature-50: #f4f7f1;
+  --color-nature-100: #e5eedf;
+  --color-nature-200: #cbdcc0;
+  --color-nature-300: #a7c398;
+  --color-nature-400: #81a56e;
+  --color-nature-500: #486932;
+  /* replaced with brand green */
+  --color-nature-600: #3a542f;
+  --color-nature-700: #314429;
+  --color-nature-800: #293923;
+  --color-nature-900: #141e10;
+
+  --color-warm-50: #F8F6F0;
+  /* replaced with brand beige */
+  --color-warm-100: #fdefdf;
+  --color-warm-200: #F1C453;
+  /* replaced with brand yellow */
+  --color-warm-300: #f6c398;
+  --color-warm-400: #f1a16e;
+  --color-warm-500: #E68A19;
+  /* replaced with brand orange */
+  --color-warm-600: #dd6831;
+  --color-warm-700: #b84e27;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-beige text-brand-green antialiased selection:bg-brand-yellow selection:text-brand-green;
+    /* Soft pattern over the new beige background */
+    background-image: radial-gradient(var(--color-warm-100) 2px, transparent 2px);
+    background-size: 32px 32px;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-md border border-white/40 shadow-xl;
+  }
+}

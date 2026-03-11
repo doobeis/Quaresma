@@ -1,0 +1,716 @@
+[
+  {
+    "id": "biscoito-de-hortel",
+    "title": "Biscoito de hortelã",
+    "description": "rico em fibras e ajuda a reduzir o mau hálito",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "½ xícara de coco fresco ralado",
+      "1 maçã média, com casca, sem sementes",
+      "1 maço de hortelã orgânica",
+      "2 ovos caipiras orgânicos",
+      "3 colheres das de sopa de óleo de coco",
+      "2 colheres das de sopa de farinha de chia",
+      "1 colher de sopa de extrato natural de hortelã (opcional)",
+      "aproximadamente 4 xícaras de farinha sem glúten                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \r\n       (60% fécula de batata + 40% farinha de arroz)"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Bata no processador de alimentos o coco, a maçã, a hortelã, os \r\novos, o óleo de coco, o sal e o extrato de hortelã e a farinha de \r\nchia, e despeje em uma tigela grande",
+      "Vá acrescentando farinha \r\nsem glúten a essa mistura até formar uma massa",
+      "Continue \r\nacrescentando farinha até essa massa começar a soltar das mãos",
+      "Divida a massa em 3 porções de tamanhos semelhantes",
+      "Estique \r\numa delas sobre uma superfície enfarinhada, com a ajuda de um \r\nrolo de massas, até conseguir uma espessura de cerca de 1cm",
+      "Corte com cortadores de biscoitos a massa esticada e espalhe sobre \r\na assadeira",
+      "Leve ao forno por 20 minutos ou até os biscoitos ficarem leves, \r\nfirmes e dourados na face virada para baixo",
+      "Repita o processo com \r\nas porções de massa reservadas",
+      "Espere esfriar e sirva",
+      "Você pode congelar a massa pronta antes de assar por até 2 \r\nmeses"
+    ]
+  },
+  {
+    "id": "biscoito-vermelho",
+    "title": "Biscoito vermelho",
+    "description": "rico em manganês (suporte articular) e ácido fólico",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 beterraba média (125g) cozida e triturada em purê",
+      "1 ovo",
+      "2 colheres das de sopa de óleo de coco",
+      "1 pitada de sal integral",
+      "Aproximadamente 3 xícaras de farinha sem glúten                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \r\n       (60% fécula de batata + 40% farinha de arroz)"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 200 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Misture bem a beterraba, o ovo, o óleo de coco e o sal",
+      "Vá \r\nacrescentando a farinha aos poucos e misturando bem com as mãos \r\naté a massa soltar da tigela",
+      "Estique a massa sobre uma superfície enfarinhada, com a ajuda \r\nde um rolo de massas, até conseguir uma espessura de cerca de \r\n1cm",
+      "Corte com cortadores de biscoitos e distribua sobre a assadeira",
+      "Leve ao forno por 15 minutos ou até os biscoitos ficarem sequinhos \r\ne começarem a dourar na face virada para baixo",
+      "Espere esfriar e sirva"
+    ]
+  },
+  {
+    "id": "biscoito-natalino",
+    "title": "Biscoito Natalino",
+    "description": "rico em antioxidantes, vitaminas do complexo B e",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 ovo caipira",
+      "2 colheres das de sopa de melaço de cana orgânico",
+      "2 colheres das de sopa de óleo de coco derretido",
+      "½ colher das de chá de sal integral",
+      "½ colher das de chá de bicarbonato de sódio",
+      "¼ de colher das de chá de cravo em pó",
+      "1 colher das de chá de canela em pó",
+      "½ colher das de chá de gengibre em pó",
+      "Aproximadamente 2 e ½ xícaras de farinha sem glúten                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   \r\n       (60% fécula de batata + 40% farinha de arroz)"
+    ],
+    "instructions": [
+      "Preaqueça o forno a 180 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Em uma tigela pequena misture bem o ovo, melaço e o óleo de \r\ncoco",
+      "Adicione o sal, o bicarbonato, o cravo, a canela, o gengibre e \r\na farinha de chia",
+      "Vá acrescentando a farinha aos poucos até obter \r\numa massa que desgrude das mãos",
+      "Estique a massa sobre uma superfície enfarinhada, com a ajuda \r\nde um rolo de massas, até conseguir uma espessura de cerca de \r\n1cm",
+      "Corte com cortadores de biscoitos a massa esticada e distribua \r\nsobre a assadeira",
+      "Leve ao forno e deixe assar por cerca de 10 minutos ou até os \r\nbiscoitos ficarem leves, sequinhos e dourados na face virada para \r\nbaixo",
+      "Retire do forno, deixe esfriar antes de servir"
+    ]
+  },
+  {
+    "id": "bolacha-de-alfarroba",
+    "title": "Bolacha de alfarroba",
+    "description": "rico em antioxidante, que previne o envelhecimento e",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 xícara de farinha de arroz",
+      "½ xícara de alfarroba em pó (sem açúcar nem adoçantes)",
+      "1 colher de chá de canela em pó",
+      "1 colher de chá de extrato de baunilha natural",
+      "¾ de xícara de água"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180 ̊C e prepare uma assadeira com folha \r\nantiaderente ou papel manteiga",
+      "Misture todos os ingredientes em uma tigela e amasse até formar \r\numa massa lisa",
+      "Se for necessário, adicione um pouquinho mais de \r\nágua se a massa ficar muito seca",
+      "Estique a massa sobre uma superfície enfarinhada, com a ajuda \r\nde um rolo de massas, até conseguir uma espessura de cerca de \r\n1cm",
+      "Corte com cortadores de biscoitos a massa esticada e espalhe \r\nsobre a assadeira",
+      "Leve ao forno e deixe assar por cerca de 12 minutos",
+      "Retire do \r\nforno, deixe esfriar antes de servir"
+    ]
+  },
+  {
+    "id": "mordidinhas-de-abbora",
+    "title": "Mordidinhas de abóbora",
+    "description": "fonte de carotenos (antioxidantes), potássio, vitamina",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 35,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "¼ xícara de farinha de coco",
+      "1 ovo caipira orgânico",
+      "½ xícara de abóbora cozida amassada",
+      "1 colher de sopa de pasta de amêndoa ou de amendoim",
+      "2 colheres de sopa de óleo de coco",
+      "Uma pitada de canela em pó"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180 ̊C",
+      "Prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Misture todos os ingredientes em uma tigela até obter uma massa \r\nhomogênea",
+      "Forme bolinhas de mais ou menos 2cm e distribua-as \r\nna assadeira",
+      "Leve ao forno por 35 minutos",
+      "Deixe esfriar e sirva"
+    ]
+  },
+  {
+    "id": "crocante-anti-pulgas",
+    "title": "Crocante anti-pulgas",
+    "description": "fonte de antioxidantes, vitaminas do complexo B,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "½ xícara de farinha de arroz",
+      "¾ de xícara de farinha de amêndoas",
+      "2 colheres de sopa de linhaça moída ou farinha de linhaça",
+      "1 colher de chá de levedo de cerveja",
+      "¼ de colher de chá de alho triturado (omita para gatos)",
+      "½ colher de chá de sal integral",
+      "1 colher de chá de alecrim desidratado",
+      "½ colher de chá de tomilho desidratado",
+      "¼ de colher de chá de bicarbonato de sódio",
+      "2 colheres de chá de gergelim (branco, preto, ou misturado)",
+      "¼ xícara de água",
+      "½ colher de chá de azeite de oliva extra virgem"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Misture todos os ingredientes secos em uma tigela grande",
+      "Adicione o óleo e a água e misture bem usando as mãos até formar \r\numa massa",
+      "Forme uma bola com massa",
+      "Abra a massa sobre uma folha antiaderente ou de papel manteiga, \r\nou uma camada fina de farinha",
+      "Abra a massa até que ela fique com \r\ncerca de 0,5cm de altura, ou o mais fina que você conseguir esticar \r\nsem ela rasgar",
+      "Corte a massa aberta em quadrados usando um \r\ncortador de pizza ou uma faca",
+      "Leve ao forno por 15-20 minutos, ou até os biscoitos começarem \r\na dourar",
+      "Tire do forno e deixe repousar por cerca de 10 minutos para que \r\nfiquem firmes",
+      "Espere esfriar e sirva"
+    ]
+  },
+  {
+    "id": "mini-cookies-de-coco",
+    "title": "Mini-cookies de coco",
+    "description": "uma potência de fibras, favorecendo a saúde intestinal",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 8,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "3 colheres das de sopa de farinha de coco",
+      "2 colheres das de sopa de manteiga gelada",
+      "1 colher de chá de mel de abelhas"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Bata todos os ingredientes juntos no mini processador ou pique \r\na manteiga em pedaços pequenos e misture tudo com as mãos",
+      "Divida a massa em 7 ou 8 bolinhas (use uma colher de chá para \r\nmedir) e disponha as bolinhas na assadeira",
+      "Achate as bolinhas com \r\nos dedos para formar bolachinhas",
+      "Leve ao forno e deixe assar até que as bordas fiquem douradas \r\n(mais ou menos 8 minutos)",
+      "Fique de olho para não deixar que eles \r\nqueimem",
+      "Espere os cookies esfriarem por completo antes de tirá-\r\nlos da assadeira, ou eles vão esfarelar e desmanchar",
+      "Depois de \r\nfrios eles ficam firmes e mantêm o formato"
+    ]
+  },
+  {
+    "id": "quadradinhos",
+    "title": "quadradinhos",
+    "description": "fonte de selênio, cobre, zinco, fibras, vitamina E e",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 30,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "½ xícara de tâmaras sem caroço picadas",
+      "¾ de xícara de amendoim orgânico torrado sem casca e sem sal",
+      "1 xícara banana passa picada",
+      "1 colher das de chá de óleo de coco",
+      "1 pitada de sal integral"
+    ],
+    "instructions": [
+      "Bata no processador de alimentos as tâmaras, a banana, o óleo de \r\ncoco e o sal até tudo misturar muito bem",
+      "Acrescente o amendoim e bata mais um pouco até que o amendoim \r\nfique quebrado em pedaços pequenos",
+      "Espalhe a massa em uma assadeira para formar uma camada de \r\ncerca de 1,5cm e alise apertando bem contra o fundo com as mãos \r\npara que ela fique bem compacta",
+      "Leve a geladeira por 30 minutos \r\npara endurecer um pouquinho e em seguida corte em quadradinhos \r\nde cerca de 1,5cm"
+    ]
+  },
+  {
+    "id": "cookies-superfceis",
+    "title": "Cookies Superfáceis",
+    "description": "rico em beta-glucanas (fibras que fortalecem o",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 banana nanica madura",
+      "1 xícara de aveia em flocos",
+      "½ colher de chá de canela em pó"
+    ],
+    "instructions": [
+      "Bata no processador a aveia até formar uma farinha",
+      "Despeje em \r\num recipiente e reserve",
+      "Descasque a banana e bata no processador \r\naté virar um creme",
+      "Misture o creme de banara à aveia triturada e \r\nadicione a canela em pó",
+      "Usando uma colher de sorvete, distribua \r\ncolheradas da massa sobre uma assadeira forrada com folha \r\nantiaderente ou papel manteiga e leve ao forno por 15 minutos a \r\n180 graus ou até os cookies ficarem dourados",
+      "Espere esfriar e sirva"
+    ]
+  },
+  {
+    "id": "barrinha-de-sementes",
+    "title": "Barrinha de sementes",
+    "description": "incrivelmente rica em antioxidantes",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 18,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Unte uma assadeira quadrada de  22cm com óleo de coco e pré-\r\naqueça o forno a  180 ̊C",
+      "Triture grosseiramente no processador as sementes de abóbora e \r\nde girassol, reservando um pouquinho para decorar no final",
+      "Misture bem os ovos, o mel, o sal e a canela",
+      "Misture todos os \r\ningredientes secos e em seguida misture a eles a mistura de ovos",
+      "Despeje a massa na assadeira e espalhe bem, apertando contra \r\no fundo de forma que fique bem nivelada e compactada",
+      "Decore \r\nespalhando por cima as sementes inteiras que você reservou",
+      "Asse por 18 minutos",
+      "Deixe esfriar completamente e corte em \r\nretângulos ou quadradinhos"
+    ]
+  },
+  {
+    "id": "almndegas-de-sardinha",
+    "title": "Almôndegas de sardinha",
+    "description": "rico em compostos anticâncer, como licopeno,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 30,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Pré-aqueça o forno a 200 ̊C e forre uma assadeira com uma folha \r\nantiaderente ou papel manteiga",
+      "Misture bem todos os ingredientes",
+      "Forme bolinhas com a massa usando uma colher de sorvete",
+      "Disponha as bolinhas na assadeira e leve ao forno por 30 minutos",
+      "Espere esfriar e sirva"
+    ]
+  },
+  {
+    "id": "brigadeiro-de-crcuma",
+    "title": "Brigadeiro de cúrcuma",
+    "description": "rico em antioxidantes anticâncer (curcumina, piperina,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "½ xícara (130g) de batata doce sem casca, cozida e amassada",
+      "2 colheres de sopa de biomassa de banana verde",
+      "1 colher das de chá de açafrão-da-terra em pó",
+      "1 pitada de pimenta do reino",
+      "1 pitada de sal integral",
+      "1 colher das de chá de gengibre em pó",
+      "1 colher das de sopa de óleo de coco",
+      "⅓ xícara de gergelim torrado"
+    ],
+    "instructions": [
+      "Despeje o gergelim em um prato e reserve",
+      "Bata no processador a \r\nbatata doce, a biomassa, o açafrão, o gengibre e o óleo de coco até \r\nobter uma massa homogênea",
+      "Faça bolinhas com a mistura usando \r\nas palmas das mãos (como se faz com brigadeiro) e role  as bolinhas \r\nsobre o gergelim espalhado no prato para cobrir toda a superfície \r\ndas bolinhas com gergelim"
+    ]
+  },
+  {
+    "id": "biscoito-de-cenoura",
+    "title": "Biscoito de cenoura",
+    "description": "riquíssimo em vitamina K, betacarotenos, polifenóis",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "½ cenoura picada",
+      "1 xícara de água",
+      "1 ovo inteiro",
+      "1 colher de sopa de manteiga em temperatura ambiente",
+      "1 colher de chá de azeite de oliva",
+      "1 pitada de sal",
+      "algumas folhinhas de manjericão fresco e lavado",
+      "aproximadamente 3 xícaras de farinha sem glúten (60% fécula \r\nde batata + 40% farinha de arroz) - o suficiente para “dar o ponto” \r\nna massa"
+    ],
+    "instructions": [
+      "Cozinhe a cenoura na água por cerca de 15 minutos",
+      "Bata a cenoura \r\ncozida no mixer até ela virar um purê",
+      "Junte o ovo, a manteiga, o \r\nazeite, o sal e o manjericão",
+      "Bata novamente até a mistura ficar \r\nhomogênea",
+      "Comece a acrescentar a farinha aos poucos, misturando \r\nbem",
+      "Quando a mistura adquirir uma consistência sólida comece \r\na misturar com as mãos, e continue acrescentando farinha até a \r\nmassa parar de grudar nos dedos",
+      "Estique a massa com um rolo, \r\ndeixando-a com mais ou menos 0,5cm de altura",
+      "Corte a massa \r\ncom cortadores de biscoito",
+      "Posicione os biscoitos cortados em \r\numa assadeira forrada com folha antiaderente ou papel manteiga \r\nou untada com algumas gotas de óleo",
+      "Leve ao forno pré-aquecido \r\npara assar por mais ou menos 10 minutos ou até a face de baixo dos \r\nbiscoitos ficar dourada"
+    ]
+  },
+  {
+    "id": "biscoito-de-banana-e-aveia",
+    "title": "Biscoito de banana e aveia",
+    "description": "fonte de beta-glucanas (fibras que beneficiam o",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 banana nanica madura, sem casca",
+      "1 ovo",
+      "50g de óleo de coco",
+      "1 colher de sopa de mel",
+      "1 xícara de aveia em flocos",
+      "1 colher de chá de canela em pó",
+      "aproximadamente 2 xícaras farinha sem glúten (60% fécula de \r\nbatata + 40% farinha de arroz) - o suficiente para “dar o ponto” na \r\nmassa"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180graus",
+      "Misture todos os ingredientes, \r\ncom exceção da farinha, até obter uma massa homogênea",
+      "Vá \r\naos poucos adicionando farinha até a massa não grudar mais nas \r\nmãos",
+      "Abra a massa com um rolo, corte no formato desejado com \r\ncortadores de biscoito e leve ao forno para assar em fogo médio ou \r\nbaixo por aproximadamente 10 minutos ou até os biscoitos ficarem \r\ndourados e sequinhos"
+    ]
+  },
+  {
+    "id": "cookies-de-nozes",
+    "title": "Cookies de nozes",
+    "description": "riquíssimo em ômegas-3 ALA, cobre e manganês,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "200g de nozes",
+      "100g de tâmaras"
+    ],
+    "instructions": [
+      "Deixe as tâmaras de molho em 1 xícara de água morna por 15 \r\nminutos",
+      "•                                                    Passe as tâmaras por uma peneira e descarte a água",
+      "Coloque \r\ntodos os ingredientes no processador e bata até formar uma massa",
+      "Faça bolinhas com a mistura usando as palmas das mãos (como \r\nse faz com brigadeiro) e disponha as bolinhas lado a lado sobre \r\numa assadeira forrada com folha antiaderente ou papel manteiga",
+      "Pressione as bolinhas com os dentes de um garfo para achatá-las e \r\ndecorar a superfície dos cookies",
+      "Leve ao forno por 13 minutos a 180 graus ou até os cookies \r\nficarem dourados",
+      "Espere esfriar por completo antes de remover \r\nda assadeira ou os cookies podem desmanchar"
+    ]
+  },
+  {
+    "id": "bolo-verde-de-caneca",
+    "title": "Bolo verde de caneca",
+    "description": "fonte de ômegas-9, carotenos que beneficiam o",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Misture todos os ingredientes em uma caneca que possa ser \r\nlevada ao forno (de vidro temperado ou de metal, por exemplo)",
+      "Asse por 12 minutos no forno convencional ou elétrico",
+      "A gente \r\nsabe que o bolo de caneca tradicional é assado no microondas, \r\nem 3 minutos, mas a gente prefere evitar o microondas e assim \r\npreservar todas as propriedades funcionais dos ingredientes que \r\nselecionamos tão cuidadosamente",
+      "Veja aqui nosso artigo sobre os \r\nmalefícios que o uso do microondas pode trazer:  http://goo.gl/\r\nhuKnMX"
+    ]
+  },
+  {
+    "id": "po-de-mandioquinha",
+    "title": "Pão de mandioquinha",
+    "description": "rico em potássio, antioxidantes, ômegas-3 ALA e fibras",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Pré-aqueça o forno a 200 ̊C e prepare uma assadeira com uma \r\nfolha antiaderente ou papel manteiga",
+      "Numa tigela misture bem todos os ingredientes, menos a água",
+      "Vá acrescentando a água aos poucos, até formar uma massa que \r\ndesgrude das mãos",
+      "Forme bolinhas, espalhe-as na assadeira",
+      "Leve ao forno por 20 \r\nminutos, aguarde esfriar e sirva"
+    ]
+  },
+  {
+    "id": "conetone",
+    "title": "Cãonetone",
+    "description": "rico em antioxidantes, potássio, vitaminas A e C,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 35,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Comece preparando a essência: coloque todos os ingredientes em \r\numa panela pequena  e leve ao fogo baixo",
+      "Mexa de vez em quando \r\ne deixe a mistura no fogo até reduzir a 2 colheres de sopa",
+      "Preaqueça o forno a 180 ̊C",
+      "Posicione 4 forminhas de panetone de \r\n250g em uma assadeira",
+      "Misture as frutas com a fécula de batata para evitar que elas \r\nfiquem no fundo do bolo",
+      "Bata as 3 claras separadas em ponto de \r\nneve",
+      "Bata no liquidificador os ovos inteiros, as gemas, o coco ralado, \r\no leite de coco, o melaço, a essência e a batata doce",
+      "Despeje a \r\nmistura em uma tigela grande e acrescente as frutas e as claras em \r\nneve",
+      "Em seguida adicione o fermento e misture delicadamente",
+      "Despeje a massa nas forminhas e leve ao forno por 35 minutos"
+    ]
+  },
+  {
+    "id": "bolo-de-fgado",
+    "title": "Bolo de Fígado",
+    "description": "graças aos elevados teores de vitamina A e",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 25,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Pré aqueça o forno a 180 ̊C",
+      "Misture todos os ingredientes no processador de alimentos e \r\ndespeje a mistura em uma assadeira untada",
+      "Leve ao forno por 25 minutos",
+      "Depois de assado, retire do forno, deixe esfriar e corte em \r\ncubinhos"
+    ]
+  },
+  {
+    "id": "pasta-de-ervas",
+    "title": "Pasta de ervas",
+    "description": "rico em riboflavina, cálcio, fósforo, proteína de",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Misture todos os ingredientes em uma tigela pequena",
+      "Use para rechear brinquedos, para cobrir biscoitos salgados ou \r\npara administrar medicamentos"
+    ]
+  },
+  {
+    "id": "bifinhos-de-fgado",
+    "title": "Bifinhos de fígado",
+    "description": "riquíssimo em vitamina A, proteína de excelente",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Corte o fígado cru em pedaços de mais ou menos 6x6cm e leve ao \r\nfogo em uma panela grande com 2 a 3L de água",
+      "Deixe cozinhar por \r\ncerca de 10 minutos",
+      "Desligue o fogo, escorra toda a água e coloque os pedaços de \r\nfígado para esfriar e secar sobre folhas de papel toalha",
+      "Quando estiverem frios, fatie os pedaços cozidos em fatias \r\nbem finas e espalhe-as em uma assadeira forrada com uma folha \r\nantiaderente",
+      "Leve ao forno pré-aquecido por cerca de 40 minutos em \r\ntemperatura média-alta, virando as fatias na metade do tempo",
+      "Pode ser necessário mais tempo para completar a secagem, vai \r\ndepender do tamanho das fatias que você conseguiu obter e da \r\ncapacidade de desidratação do seu forno",
+      "Experimente o mesmo \r\nprocedimento com outras carnes como coração, língua ou músculo \r\nbovino, ou mesmo com peito de frango"
+    ]
+  },
+  {
+    "id": "bifinhos-de-frango",
+    "title": "Bifinhos de frango",
+    "description": "proteína de altíssima qualidade, niacina, selênio,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Corte o frango cru em bifes o mais fino que conseguir e enxugue-\r\nos com papel toalha",
+      "Corte os bifes em tiras e disponha as tiras de \r\nfrango sobre uma grade de metal (recomendamos uma grade de \r\nesfriar biscoitos)",
+      "Posicione a grade sobre uma assadeira que seja \r\nmaior do que ela",
+      "Leve a assadeira com a grade ao forno pré-aquecido por cerca de \r\n1 hora e meia em temperatura baixa, virando as fatias na metade do \r\ntempo",
+      "Pode ser necessário mais ou menos tempo para completar \r\na secagem, vai depender do tamanho das fatias e da capacidade de \r\ndesidratação do seu forno",
+      "Siga o mesmo procedimento para fazer \r\nbifinhos de carne bovina ou suína (escolha um corte sem gordura), \r\nde cabrito, de peixe etc"
+    ]
+  },
+  {
+    "id": "sorbet-detox",
+    "title": "Sorbet detox",
+    "description": "propriedades destoxificantes, antiinflamatórias,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Bata todos os ingredientes no liquidificador e despeje em uma \r\nforminha de gelo",
+      "Leve ao freezer até endurecer",
+      "Sirva congelado \r\nou deixe descongelar na tigela de água do peludo"
+    ]
+  },
+  {
+    "id": "pipoca-temperada",
+    "title": "Pipoca temperada",
+    "description": "rica em fibras que aumentam a sensação de saciedade",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Coloque numa pipoqueira ou numa panela com tampa o óleo de \r\ncoco e o milho de pipoca, tampe e leve ao fogo médio",
+      "Quando os milhos começarem a estourar, agite a panela para \r\nmisturar e evitar que as pipocas queimem",
+      "Retire do fogo quando \r\nos estouros pararem ou ficarem bem espassados",
+      "Despeje numa tigela grande e salpique com o sal, as ervas e o \r\nazeite",
+      "Espere esfriar e sirva",
+      "Pode ser utilizada como recompensa \r\nem adestramento"
+    ]
+  },
+  {
+    "id": "gelatina-de-frutas-vermelhas",
+    "title": "Gelatina de frutas vermelhas",
+    "description": "o colágeno natural favorece a saúde do cérebro, da",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Hidrate a gelatina com a água morna e reserve",
+      "Misture o suco de laranja e as frutas vermelhas em uma panela e \r\nleve ao fogo, mexendo de vez em quando, até que as frutas fiquem \r\nmacias",
+      "Adicione o mel e misture até dissolvê-lo bem",
+      "Bata a mistura com um mixer, formando um purê",
+      "Acrescente a \r\ngelatina e misture bem",
+      "Despeje a mistura em uma forma de vidro ou em forminhas de \r\nsilicone para chocolate e refrigere por um hora ou até que fique \r\nfirme",
+      "Se tiver usado uma travessa de vidro, corte a gelatina em \r\ncubinhos",
+      "Se tiver usado forminhas de silicone, desenforme e \r\nofereça",
+      "Mantenha refrigerado"
+    ]
+  },
+  {
+    "id": "algas-crocantes",
+    "title": "Algas crocantes",
+    "description": "fonte de ferro, vitamina C, o raro mineral iodo,",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 5,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [],
+    "instructions": [
+      "Pré-aqueça o forno a 170 ̊C",
+      "Corte as folhas ao meio nos sentidos, \r\nhorizontal e vertical, para obter 4 pedaços menores",
+      "Disponha os \r\npedaços sobre uma assadeira, sem deixa-los sobrepostos",
+      "Pincele \r\nas folhas com o azeite usando um pincel ou os dedos e polvilhe \r\no sal e o gergelim",
+      "Asse por 5 minutos ou até as folhas ficarem \r\ncrocantes ou levemente franzidas",
+      "Deixe esfriar e sirva"
+    ]
+  },
+  {
+    "id": "panquecanina",
+    "title": "Panquecanina",
+    "description": "a banana entra com potássio e fibras solúveis e os",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80",
+    "prepTime": 1,
+    "difficulty": "Easy",
+    "toxicCheck": true,
+    "categories": [
+      "snacks"
+    ],
+    "isPremium": false,
+    "ingredients": [
+      "1 banana nanica madura",
+      "2 ovos",
+      "Óleo de coco para untar a frigideira"
+    ],
+    "instructions": [
+      "Descasque e amasse a banana até que ela fique numa consistência \r\nde purê",
+      "Você deve obter uma quantidade equivalente a 1⁄3 a 1⁄2 \r\nxícara de banana amassada",
+      "Numa tigelinha separada, bata os ovos até que as claras e gemas \r\nfiquem completamente misturadas",
+      "Misture os ovos com a banana amassada",
+      "A massa vai ficar bem \r\nlíquida, parecendo mais ovos batidos do que massa de panqueca, \r\nmas é assim mesmo",
+      "Aqueça uma frigideira ou chapa antiaderente e mantenha o fogo \r\nmédio - se ficar alto demais, as panquecas vão queimar, se ficar \r\nbaixo demais elas ficarão muito finas",
+      "Se preferir, unte a frigideira \r\ncom algumas gotinhas de óleo de coco",
+      "Despeje sobre a frigideira o equivalente a 2 colheres de sopa \r\nda massa, com cuidado para que, ao despejar, a massa se espalhe \r\nuniformemente, formando um círculo",
+      "A massa deve começar a \r\nborbulhar imediatamente",
+      "Deixe fritar por cerca de 1 minuto, sem \r\nmexer",
+      "Verifique, levantando levemente a borda, se a face de baixo \r\nestá ficando dourada e observe se o centro já está com aparência \r\nfirme - se você tentar virar a panqueca quando ele ainda estiver \r\ntotalmente líquido e cru, ela vai quebrar",
+      "Quando chegar a hora de virar, insira uma espátula bem fina sob \r\na panqueca, e vire-a bem cuidadosamente para que a face crua \r\nfique em contato com a frigideira, para cozinhar o outro lado",
+      "Não se preocupe se um pouco da massa ainda crua espirrar pela \r\nfrigideira",
+      "Se isso acontecer, tente posicionar a panqueca virada \r\nsobre a porção espirrada, assim os pingos serão reincorporados à \r\npanqueca",
+      "Deixe fritar por mais 1 minuto, mais ou menos",
+      "Você pode virar \r\nnovamente mais algumas vezes, para que os dois lados fiquem \r\ndourados na mesma medida",
+      "Transfira a panqueca pronta para um prato e repita todo o \r\nprocesso até a massa acabar",
+      "Na hora de servir você pode cortar a massa já frita com cortadores \r\nde biscoito em formato de ossinhos e decorar com canela em \r\npó, coco ralado e/ou frutas como morango fatiado, blueberries, \r\ncubinhos de manga, fatias de maçã, etc"
+    ]
+  }
+]
